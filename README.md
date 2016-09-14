@@ -1,2 +1,2 @@
-# The last day of system
+# Last day of system
 Old idea, new implementation
