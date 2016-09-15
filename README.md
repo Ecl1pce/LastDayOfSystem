@@ -1,6 +1,6 @@
 # Last day of system
 ## Old idea, new implementation
-
+!["this is a picture"](resources/wallpaper.jpg)
 ## Описание проекта
 
 Продукт представляет собой 2D-игру жанра Platformer-Stick-action. 
